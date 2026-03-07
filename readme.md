@@ -74,6 +74,7 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 - [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy): Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs).
 - [tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper): A visual way to view your ACL rules for Tailscale.
 - [tailscale/tmemes](https://github.com/tailscale/tmemes): A meme generator for your tailnet!
+- [almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack): Mobile & desktop PWA command center for AI coding agents (Claude, Codex, Gemini) via tmux — access and control sessions across machines from your phone, secured by Tailscale HTTPS.
 
 <!-- END CONTENT -->
 
