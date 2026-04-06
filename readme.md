@@ -75,6 +75,8 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 - [tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper): A visual way to view your ACL rules for Tailscale.
 - [tailscale/tmemes](https://github.com/tailscale/tmemes): A meme generator for your tailnet!
 
+- [YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp): MCP server for managing Tailscale tailnets from AI assistants. 52 tools covering devices, ACLs, DNS, auth keys, users, webhooks, and audit logs.
+
 <!-- END CONTENT -->
 
 ## Follow
