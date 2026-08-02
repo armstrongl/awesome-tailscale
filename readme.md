@@ -74,6 +74,7 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 - [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy): Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs).
 - [tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper): A visual way to view your ACL rules for Tailscale.
 - [tailscale/tmemes](https://github.com/tailscale/tmemes): A meme generator for your tailnet!
+- [godfaddaai/multiplayer-ai](https://github.com/godfaddaai/multiplayer-ai): Terminal-native multiplayer for explicitly shared Codex and Claude Code sessions between trusted teammates over Tailscale.
 
 <!-- END CONTENT -->
 
