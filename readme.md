@@ -50,6 +50,7 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 
 ## Other
 
+- [almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack): Self-hosted browser and phone control room for Claude Code, Codex, Gemini, and shell terminals, with private remote access over Tailscale.
 - [tailscale/golink](https://github.com/tailscale/golink): A private shortlink service for tailnets.
 - [tailscale/docker-extension](https://github.com/tailscale/docker-extension): Docker Desktop extension adding Tailscale networking.
 - [tailscale/libtailscale](https://github.com/tailscale/libtailscale): A C library that embeds Tailscale into a process.
