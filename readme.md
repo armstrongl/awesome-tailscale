@@ -74,6 +74,7 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 - [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy): Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs).
 - [tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper): A visual way to view your ACL rules for Tailscale.
 - [tailscale/tmemes](https://github.com/tailscale/tmemes): A meme generator for your tailnet!
+- [lydakis/errand](https://github.com/lydakis/errand): Personal job runner that snapshots a worktree, runs a command on another machine over Tailscale or SSH, streams logs, and can fetch or apply changes back.
 
 <!-- END CONTENT -->
 
