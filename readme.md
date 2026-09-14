@@ -74,6 +74,7 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 - [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy): Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs).
 - [tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper): A visual way to view your ACL rules for Tailscale.
 - [tailscale/tmemes](https://github.com/tailscale/tmemes): A meme generator for your tailnet!
+- [serverjack](https://github.com/jackgillette006/serverjack): A self-hosted web terminal for tmux sessions and coding agent CLIs, reachable from your phone over your tailnet.
 
 <!-- END CONTENT -->
 
